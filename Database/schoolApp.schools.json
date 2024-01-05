@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "65902d320e0558adbd6a0e8e"
+  },
+  "name": "Islamic School sdfsd",
+  "photo": "Sample photo",
+  "inviteCode": "3X1I71",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65902e03f953a99116709f50"
+  },
+  "name": "Islamic School sdfsd",
+  "photo": "Sample photo",
+  "inviteCode": "I2SU01",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65902ef68c0877634e183883"
+  },
+  "name": "Islamic School sdfsd",
+  "photo": "Sample photo",
+  "inviteCode": "X5YENQ",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65902f0c1c0fea038964e4be"
+  },
+  "name": "Islamic School sdfsd",
+  "photo": "Sample photo",
+  "inviteCode": "S316A6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65902f20f1ebd7b0c2c97909"
+  },
+  "name": "Islamic School sdfsd",
+  "photo": "Sample photo",
+  "inviteCode": "SPGILT",
+  "userId": {
+    "$oid": "65902d190e0558adbd6a0e8b"
+  },
+  "__v": 0
+}]

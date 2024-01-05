@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "6590364f010d0f9e8ec18d44"
+  },
+  "name": "Adil khan",
+  "photo": "Sample photo",
+  "classes": [
+    {
+      "$oid": "6590355c825c9af5735b06ba"
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "65903b0275b54f6957f0493d"
+  },
+  "name": "Akram khan",
+  "photo": "Sample photo",
+  "classes": [
+    {
+      "$oid": "6590355c825c9af5735b06ba"
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "65903d36ca3a3cd325104956"
+  },
+  "name": "Akram khan2",
+  "photo": "Base64EncodedImage",
+  "classes": [
+    {
+      "$oid": "6590355c825c9af5735b06ba"
+    }
+  ],
+  "__v": 1
+}]
